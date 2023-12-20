@@ -6,4 +6,3 @@ public class   Coins {
       System.out.println("Use " + quarters + " quarters and " + cents + " cents");
    }
 }
-
