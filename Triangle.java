@@ -6,11 +6,11 @@ public class   Triangle {
       
       if (lengh1 + lengh2 > lengh3 && lengh1 + lengh3 > lengh2 && lengh2 + lengh3 > lengh1) {
          
-         System.out.println(lengh1 + ", " + lengh2 + ",  " + lengh3 + ": true "); 
+         System.out.println(lengh1 + ", " + lengh2 + ", " + lengh3 + ": true "); 
 
     } else {
          
-         System.out.println(lengh1 + ", " + lengh2 + ",  " + lengh3 + ": false ");
+         System.out.println(lengh1 + ", " + lengh2 + ", " + lengh3 + ": false ");
     }
 
    }
